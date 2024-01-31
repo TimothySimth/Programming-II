@@ -1,0 +1,14 @@
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\obj\x86\Debug\prog122a.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\obj\x86\Debug\prog122a.MainForm.resources
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\obj\x86\Debug\prog122a.pyproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\prog122a.exe.config
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\prog122a.exe
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\prog122a.dll
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\Programming-II\prog122a\obj\x86\Debug\prog122a.exe

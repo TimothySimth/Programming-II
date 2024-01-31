@@ -1,0 +1,14 @@
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\Prog52c.exe.config
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\Prog52c.exe
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\Prog52c.dll
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\obj\x86\Debug\Prog52c.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\obj\x86\Debug\Prog52c.MainForm.resources
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\obj\x86\Debug\Prog52c.pyproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\Programming-II\Prog52c\obj\x86\Debug\Prog52c.exe
