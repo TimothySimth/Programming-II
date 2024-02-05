@@ -1,0 +1,14 @@
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\StrInt2.exe.config
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\StrInt2.exe
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\StrInt2.dll
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\obj\x86\Debug\StrInt2.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\obj\x86\Debug\StrInt2.MainForm.resources
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\obj\x86\Debug\StrInt2.pyproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\Programming-II\StrInt2\obj\x86\Debug\StrInt2.exe
